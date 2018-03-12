@@ -1,0 +1,921 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "http://ubuntufun.de/wp-content/uploads/2016/03/Xerus_Orange.png",
+          "type": "Image",
+          "x": 9,
+          "y": 101,
+          "scale": {
+            "x": 0.24609375,
+            "y": 0.24609375,
+            "width": 1008,
+            "height": 567
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 95,
+          "y": -6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 85,
+          "text": "<font face=\"'Ubuntu', sans-serif\"><b>Xenial Release Party<br></b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 700,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 38,
+          "text": "<font face=\"'Ubuntu', sans-serif\">Universitas Pembangunan Nasional \"Veteran\" Yogyakarta<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": -7,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 85,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\">Tasyakuran Rilis Xenial<br></font></b>",
+          "selected": false
+        },
+        {
+          "src": "http://ubuntufun.de/wp-content/uploads/2016/03/Xerus_Orange.png",
+          "type": "Image",
+          "x": 9,
+          "y": 101,
+          "scale": {
+            "x": 0.24609375,
+            "y": 0.24609375,
+            "width": 1008,
+            "height": 567
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 693,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 38,
+          "text": "<font face=\"'Ubuntu', sans-serif\">Universitas Pembangunan Nasional \"Veteran\" Yogyakarta<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 249,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 79,
+          "text": "<font face=\"'Ubuntu', sans-serif\"><b>Dedy Hariyadi<br></b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 406,
+          "y": 374,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "@milisdad",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/8OL3Sth.png",
+          "type": "Image",
+          "x": 257,
+          "y": 205,
+          "scale": {
+            "x": 0.2377850162866449,
+            "y": 0.2377850162866449,
+            "width": 510.9999999999999,
+            "height": 507.19543973941353
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 77,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\">Komunitas Ubuntu Indonesia<br></font></b>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1020,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/8OL3Sth.png",
+          "type": "Image",
+          "x": 359,
+          "y": 46,
+          "scale": {
+            "x": 0.1423918101442531,
+            "y": 0.1423918101442531,
+            "width": 305.9999999999999,
+            "height": 303.7217310376918
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 34,
+          "y": 381,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<ul><li><font face=\"Ubuntu\">Badan Hukum: AHU-37.AH.01.07.Tahun 2013</font></li><li><font face=\"Ubuntu\">https://www.facebook.com/ubuntu.indonesia</font></li><li><font face=\"Ubuntu\">https://twitter.com/ubuntu_id</font></li><li>http://groups.google.com/group/id-ubuntu</li><li>http://www.ubuntu-id.org<br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1300,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 326,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\">Ibnu Islamy Harahap<br></font></b>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1580,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 78,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\">Keamanan Teknologi Informasi<br></font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 188,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><font face=\"Ubuntu\">Fisik</font></li><li><font face=\"Ubuntu\">Non-fisik<br></font></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1860,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 162,
+          "y": 210,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div align=\"center\"><b><font face=\"'Ubuntu', sans-serif\">Berbayar<br>vs<br>Tidak Berbayar<br></font></b></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 2140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 194,
+          "y": 209,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div align=\"center\"><b><font face=\"Ubuntu\">Closed Source</font><br><font face=\"Ubuntu\">vs</font><br><font face=\"Ubuntu\">Open Source</font></b><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 2420,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 382,
+          "y": 53,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b>ssh</b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 184,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"'Ubuntu', sans-serif\">PermitRootLogin no</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": true,
+      "active": true,
+      "x": 2700,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 281,
+          "y": 2,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\">procps</font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 210,
+          "y": 229,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "# Ignore ICMP broadcast requests <br>net.ipv4.icmp_echo_ignore_broadcasts = 1&nbsp; <br><br># Disable source packet routing <br>net.ipv4.conf.all.accept_source_route = 0 <br>net.ipv6.conf.all.accept_source_route = 0&nbsp; <br>net.ipv4.conf.default.accept_source_route = 0 <br>net.ipv6.conf.default.accept_source_route = 0&nbsp; <br><br># Ignore send redirects net.ipv4.conf.all.send_redirects = 0 <br>net.ipv4.conf.default.send_redirects = 0&nbsp; <br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 2980,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 258,
+          "y": 227,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "# Block SYN attacks <br>net.ipv4.tcp_max_syn_backlog = 2048 <br>net.ipv4.tcp_synack_retries = 2 <br>net.ipv4.tcp_syn_retries = 5&nbsp; <br><br># Log Martians <br>net.ipv4.conf.all.log_martians = 1 <br>net.ipv4.icmp_ignore_bogus_error_responses = 1&nbsp; <br><br># Ignore ICMP redirects <br>net.ipv4.conf.all.accept_redirects = 0 <br>net.ipv6.conf.all.accept_redirects = 0 <br>net.ipv4.conf.default.accept_redirects = 0&nbsp; <br>net.ipv6.conf.default.accept_redirects = 0&nbsp; <br><br># Ignore Directed pings <br>net.ipv4.icmp_echo_ignore_all = 1",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 281,
+          "y": 2,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\">procps</font></b>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 3260,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 383,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font face=\"'Ubuntu', sans-serif\"><b>php</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 388,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\">disable_functions : exec, system, shell_exec, passthru<br>Off : expose_php, display_errors, track_errors, html_errors&nbsp; <br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 306,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "/etc/php5/apache2/php.ini <br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 3540,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 227,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\">apache2</font></font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 171,
+          "y": 193,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\">/etc/apache2/conf-available/security.conf <br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 218,
+          "y": 368,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li>ServerTokens Prod </li></ul><ul><li>ServerSignature Off</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 3820,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 227,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\">apache2</font></font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 215,
+          "y": 310,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li>sudo a2enconf security </li></ul><ul><li>sudo a2enmod headers<br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 4100,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 9,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 93,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\">apache2 - <font face=\"'Ubuntu', sans-serif\">ModSecurity</font><br></font></font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 70,
+          "y": 302,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<ul><li>sudo apt-get install libxml2 libxml2-dev libxml2-utils</li></ul><ul><li>sudo apt-get install libaprutil1 libaprutil1-dev</li></ul><ul><li>ln -s /usr/lib/x86_64-linux-gnu/libxml2.so.2 /usr/lib/libxml2.so.2</li></ul><ul><li>sudo apt-get install libapache-mod-security</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 4380,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 93,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\">apache2 - <font face=\"'Ubuntu', sans-serif\">Mod<font face=\"'Ubuntu', sans-serif\">Evasi<font face=\"'Ubuntu', sans-serif\">ve</font></font></font><br></font></font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 114,
+          "y": 182,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<ul><li>sudo apt-get install libapache2-mod-evasive</li><li>sudo mkdir /var/log/mod_evasive</li><li>sudo chown www-data:www-data /var/log/mod_evasive/</li><li>sudo a2enmod evasive</li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 277,
+          "y": 348,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 30,
+          "text": "&lt;ifmodule mod_evasive20.c&gt;<br>&nbsp;&nbsp; DOSHashTableSize 3097<br>&nbsp;&nbsp; DOSPageCount&nbsp; 2<br>&nbsp;&nbsp; DOSSiteCount&nbsp; 50<br>&nbsp;&nbsp; DOSPageInterval 1<br>&nbsp;&nbsp; DOSSiteInterval&nbsp; 1<br>&nbsp;&nbsp; DOSBlockingPeriod&nbsp; 10<br>&nbsp;&nbsp; DOSLogDir&nbsp;&nbsp; /var/log/mod_evasive<br>&nbsp;&nbsp; DOSWhitelist&nbsp;&nbsp; 127.0.0.1<br>&lt;/ifmodule&gt;",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 4660,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 72,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 93,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\">rkhunter - chrootkit</font><br></font></font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 26,
+          "y": 286,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<ul><li>apt-get install rkhunter chkrootkit</li><li>/etc/chkrootkit.conf : RUN_DAILY=\"true\"</li><li>/etc/default/rkhunter : CRON_DAILY_RUN, CRON_DB_UPDATE \"true\"</li><li>mv /etc/cron.weekly/rkhunter /etc/cron.weekly/rkhunter_update</li><li>mv /etc/cron.daily/rkhunter /etc/cron.weekly/rkhunter_run</li><li>mv /etc/cron.daily/chkrootkit /etc/cron.weekly/</li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 4940,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 311,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 93,
+          "text": "<b><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\"><font face=\"'Ubuntu', sans-serif\">logwa<font face=\"'Ubuntu', sans-serif\">tch</font></font><br></font></font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 28,
+          "y": 285,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<ul><li>apt-get install logwatch</li><li>mv /etc/cron.daily/00logwatch /etc/cron.weekly/</li><li>/usr/sbin/logwatch --output mail --range 'between -7 days and -1 days'</li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 308,
+          "y": 137,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 32,
+          "text": "/etc/cron.weekly/00logwatch",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 5220,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 333,
+          "y": 9,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 530,
+          "text": "<b><font face=\"Ubuntu\">X</font></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 249,
+          "y": 526,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "jangan bertanya !!!<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 5500,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 311,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 122,
+          "text": "<font face=\"'Ubuntu', sans-serif\"><b>Mari Berdiskusi...<br></b></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 5780,
+      "y": 1020
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 382,
+        "y": 53,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 144,
+        "text": "<b>ssh</b>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 184,
+        "y": 340,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<font face=\"'Ubuntu', sans-serif\">PermitRootLogin no</font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 9,
+    "selected": true,
+    "active": true,
+    "x": 2700,
+    "y": 460
+  },
+  "fileName": "xrpjogja.strut",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": null,
+  "overviewY": null
+}
